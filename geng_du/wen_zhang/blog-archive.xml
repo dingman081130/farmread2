@@ -2,17 +2,17 @@
 <rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>&#x6587;&#x7AE0;</title>
-    <link>http://www.farmread.com:8080/geng_du/wen_zhang</link>
+    <link>http://geng_du/wen_zhang</link>
     <description>&#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002; &#x8FD9;&#x91CC;&#x5199;&#x5173;&#x4E8E;&#x6587;&#x7AE0;&#x7684;&#x63CF;&#x8FF0;&#x3002;</description>
     <item>
       <title>&#x9C81;&#x667A;&#x6DF1;&#x5750;&#x5316;&#x6D59;&#x6C5F;&#x6F6E;</title>
-      <link>http://www.farmread.com%3A8080/geng_du/wen_zhang/Entries/2015/3/23_lu_zhi_shen_zuo_hua_zhe_jiang_chao.html</link>
-      <guid isPermaLink="false">befb4479-d490-44af-8927-94653526e3bf</guid>
-      <pubDate>Mon, 23 Mar 2015 23:50:37 +0800</pubDate>
-      <iweb:comment enabled="0" count="0" link="http://www.farmread.com%3A8080/geng_du/wen_zhang/Entries/2015/3/23_lu_zhi_shen_zuo_hua_zhe_jiang_chao.html#comment_layer"></iweb:comment>
+      <link>http://geng_du/wen_zhang/Entries/2013/8/9_lu_zhi_shen_zuo_hua_zhe_jiang_chao_1.html</link>
+      <guid isPermaLink="false">6622d413-28ff-427e-a424-e8a5fc2d54ad</guid>
+      <pubDate>Fri, 9 Aug 2013 23:50:37 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://geng_du/wen_zhang/Entries/2013/8/9_lu_zhi_shen_zuo_hua_zhe_jiang_chao_1.html#comment_layer"></iweb:comment>
     </item>
     <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
-    <iweb:baseURL>http://www.farmread.com:8080/geng_du/wen_zhang</iweb:baseURL>
+    <iweb:baseURL>http://geng_du/wen_zhang</iweb:baseURL>
     <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
   </channel>
 </rss>

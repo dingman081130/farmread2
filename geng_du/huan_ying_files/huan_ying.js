@@ -1,7 +1,7 @@
 // Created by iWeb 3.0.4 local-build-20150324
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({reflection_0:new IWReflection({opacity:0.09,offset:2.00}),stroke_0:new IWEmptyStroke()});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke(),reflection_0:new IWReflection({opacity:0.09,offset:2.00})});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()

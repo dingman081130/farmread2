@@ -176,15 +176,15 @@ a:hover {
     line-height: 1px;
 }
 #widget1 .Summary_Title {
-    color: rgb(88, 77, 77);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'MicrosoftYaHei', 'Microsoft YaHei';
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 24px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
@@ -243,15 +243,15 @@ a:hover {
     text-transform: none;
 }
 #widget1 .Summary_Body {
-    color: rgb(88, 77, 77);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-family: 'MicrosoftYaHei', 'Microsoft YaHei';
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 19px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;

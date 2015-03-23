@@ -53,18 +53,15 @@
     font-weight: 400;
     line-height: 47px;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_186_24 {
-    position: relative;
-}
 .style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -98,9 +95,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_562_1763 {
-    position: relative;
-}
 .paragraph_style_3 {
     color: rgb(0, 0, 0);
     font-family: 'MicrosoftYaHei', 'Microsoft YaHei';
@@ -122,6 +116,12 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_628_1628 {
+    position: relative;
+}
+.style_External_160_24 {
+    position: relative;
 }
 .Date {
     color: rgb(88, 77, 77);
@@ -192,13 +192,13 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_562_1763 {
-    position: relative;
-}
-.Normal_External_186_24 {
+.Normal_External_160_24 {
     position: relative;
 }
 .Normal_External_314_58 {
+    position: relative;
+}
+.Normal_External_628_1628 {
     position: relative;
 }
 .Previous {
@@ -253,11 +253,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_generic_title_textbox_style_default_SkipStroke {
+.graphic_generic_picture_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.graphic_image_style_default_SkipStroke {
+.graphic_generic_title_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }

@@ -9,7 +9,7 @@
     <meta name="iWeb-Build" content="local-build-20150324" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
-    <title>Blog Archive</title>
+    <title>文章列表</title>
     <link rel="stylesheet" type="text/css" media="screen,print" href="Archive_files/Archive.css" />
     <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Archive_files/ArchiveIE.css'/><![endif]-->
     <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='../Media/IE8.css'/><![endif]-->
@@ -32,10 +32,10 @@ iWebBlogArchivePageTitle = 'Archive';
     <script type="text/javascript" src="../Scripts/iWebSite.js"></script>
     <script type="text/javascript" src="../Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
     <script type="text/javascript" src="../Scripts/Widgets/Navbar/navbar.js"></script>
+    <script type="text/javascript" src="../Scripts/iWebImage.js"></script>
     <script type="text/javascript" src="../Scripts/iWebDebug.js"></script>
     <script type="text/javascript" src="http://www.me.com/1/up/comments/scripts/search.js"></script>
     <script type="text/javascript" src="../Scripts/iWebBlog.js"></script>
-    <script type="text/javascript" src="../Scripts/iWebImage.js"></script>
     <script type="text/javascript" src="../Scripts/Widgets/BlogSummary/BlogSummary.js"></script>
     <script type="text/javascript" src="../Scripts/Widgets/BlogSummary/localizedStrings.js"></script>
     <script type="text/javascript" src="Archive_files/Archive.js"></script>
@@ -68,7 +68,7 @@ new NavBar('widget0', '../Scripts/Widgets/Navbar', '../Scripts/Widgets/SharedRes
 //--><!]]></script>
           <div style="clear: both; height: 0px; line-height: 0px; " class="spacer"> </div>
         </div>
-        <div style="height: 73px; margin-left: 0px; position: relative; width: 700px; z-index: 10; " id="header_layer">
+        <div style="height: 78px; margin-left: 0px; position: relative; width: 700px; z-index: 10; " id="header_layer">
           <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
           <div style="height: 1px; width: 630px;  height: 1px; left: 35px; position: absolute; top: 3px; width: 630px; z-index: 1; " class="tinyText">
             <div style="position: relative; width: 630px; ">
@@ -78,10 +78,10 @@ new NavBar('widget0', '../Scripts/Widgets/Navbar', '../Scripts/Widgets/SharedRes
           
 
 
-          <div id="id1" style="height: 50px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke shape-with-text">
-            <div class="text-content Normal_External_630_50" style="padding: 0px; ">
+          <div id="id1" style="height: 55px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke shape-with-text">
+            <div class="text-content Normal_External_630_55" style="padding: 0px; ">
               <div class="Normal">
-                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Header">Blog Archive</p>
+                <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style">文章列表</p>
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@ new NavBar('widget0', '../Scripts/Widgets/Navbar', '../Scripts/Widgets/SharedRes
               <img src="Archive_files/shapeimage_2.jpg" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 630px; " />
             </div>
           </div>
-          <a href="http://www.farmread.com%3A8080/geng_du/wen_zhang/rss.xml" title="http://www.farmread.com:8080/geng_du/wen_zhang/rss.xml"><img src="Archive_files/RSS.png" alt="Subscribe to RSS Feed" style="border: none; height: 36px; left: 295px; position: absolute; top: 2px; width: 109px; z-index: 1; " />
+          <a href="http://geng_du/wen_zhang/rss.xml" title="http://geng_du/wen_zhang/rss.xml"><img src="Archive_files/RSS.png" alt="Subscribe to RSS Feed" style="border: none; height: 36px; left: 295px; position: absolute; top: 2px; width: 109px; z-index: 1; " />
 
 </a>
           <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
@@ -104,7 +104,7 @@ Blog Summary Widget
             <div style="clear:both"></div>
           </div>
           <script type="text/javascript"><!--//--><![CDATA[//><!--
-new BlogSummaryWidget('widget1', '../Scripts/Widgets/BlogSummary', '../Scripts/Widgets/SharedResources', '..', {"imageVisibility": true, "excerpt-length": 0, "headerOnTop": true, "htmlTemplate": "<!-- White Blog Archive -->\n<!-- 5186946: Set separator height to 1px for IE6 -->\n<div id='$WIDGET_ID-item-template' style='display:none; position: relative'>\n<div id='$WIDGET_ID-title' class='Summary_Title'><a href='$link$'><span class='bl-value-title'><\/span><\/a><\/div>\n<div id='$WIDGET_ID-date' class='Summary_Date'><span class='bl-value-date'><\/span><\/div>\n<div id='$WIDGET_ID-link' class='Summary_Read_More'>\n<span id='$WIDGET_ID-comment-field' class='comment-field' style='display:none'> | <a href='$comment-link$'><span class='bl-value-comment-count'><\/span><\/a><\/span><\/div>\n<\/div>\n<div id='$WIDGET_ID-separator-template' class='Summary_Separator' style='display:none; line-height: 1px'>\n<div style=\"background-color: #333; margin-bottom: 20px; height: 1px;\">&nbsp;<\/div>\n<\/div>\n", "imageSizeOverride": "", "extraSpace": 0, "imagePosition": "Left", "photoProportions": "Landscape", "imageOutside": false, "imageSize": "25", "rss-for-archive": "true", "upgrades": {"styleThreeWidthScale": true}});
+new BlogSummaryWidget('widget1', '../Scripts/Widgets/BlogSummary', '../Scripts/Widgets/SharedResources', '..', {"imageVisibility": true, "excerpt-length": 0, "headerOnTop": true, "htmlTemplate": "<!-- White Blog Archive -->\n<!-- 5186946: Set separator height to 1px for IE6 -->\n<div id='$WIDGET_ID-item-template' style='display:none; position: relative'>\n<div id='$WIDGET_ID-title' class='Summary_Title'><a href='$link$'><span class='bl-value-title'><\/span><\/a><\/div>\n<div id='$WIDGET_ID-date' class='Summary_Date'><span class='bl-value-date'><\/span><\/div>\n<div id='$WIDGET_ID-link' class='Summary_Read_More'>\n<span id='$WIDGET_ID-comment-field' class='comment-field' style='display:none'> | <a href='$comment-link$'><span class='bl-value-comment-count'><\/span><\/a><\/span><\/div>\n<\/div>\n<div id='$WIDGET_ID-separator-template' class='Summary_Separator' style='display:none; line-height: 1px'>\n<div style=\"background-color: #333; margin-bottom: 20px; height: 1px;\">&nbsp;<\/div>\n<\/div>\n", "imageSizeOverride": "", "extraSpace": 0, "imagePosition": "Left", "photoProportions": "Landscape", "sfr-stroke": "new IWEmptyStroke()", "imageOutside": false, "imageSize": "25", "rss-for-archive": "true", "upgrades": {"styleThreeWidthScale": true}});
 //--><!]]></script>
           <div style="height: 363px; line-height: 363px; " class="spacer"> </div>
         </div>

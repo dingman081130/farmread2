@@ -1,3 +1,25 @@
+.paragraph_style {
+    color: rgb(0, 0, 0);
+    font-family: 'MicrosoftYaHei', 'Microsoft YaHei';
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 47px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -24,11 +46,11 @@
     text-indent: 0px;
     text-transform: none;
 }
+.Normal_External_630_55 {
+    position: relative;
+}
 .Normal {
     padding: 4px;
-}
-.Normal_External_630_50 {
-    position: relative;
 }
 .graphic_generic_title_textbox_style_default_SkipStroke {
     background: transparent;
